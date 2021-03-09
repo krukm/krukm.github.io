@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.28b81880.chunk.css",
-    "main.js": "/static/js/main.5c26db36.chunk.js",
-    "main.js.map": "/static/js/main.5c26db36.chunk.js.map",
+    "main.js": "/static/js/main.3f3569b7.chunk.js",
+    "main.js.map": "/static/js/main.3f3569b7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4d008b75.js",
     "runtime-main.js.map": "/static/js/runtime-main.4d008b75.js.map",
     "static/css/2.658248ec.chunk.css": "/static/css/2.658248ec.chunk.css",
@@ -15,8 +15,8 @@
     "static/css/main.28b81880.chunk.css.map": "/static/css/main.28b81880.chunk.css.map",
     "static/js/2.612ac1a5.chunk.js.LICENSE.txt": "/static/js/2.612ac1a5.chunk.js.LICENSE.txt",
     "static/media/code.d319aac5.png": "/static/media/code.d319aac5.png",
+    "static/media/construction.bcff9224.jpg": "/static/media/construction.bcff9224.jpg",
     "static/media/exlogo.6861d739.png": "/static/media/exlogo.6861d739.png",
-    "static/media/frame.c8536490.jpg": "/static/media/frame.c8536490.jpg",
     "static/media/krukmgithub.2f576b92.png": "/static/media/krukmgithub.2f576b92.png",
     "static/media/myFace1.79a0a2cf.jpg": "/static/media/myFace1.79a0a2cf.jpg"
   },
@@ -25,6 +25,6 @@
     "static/css/2.658248ec.chunk.css",
     "static/js/2.612ac1a5.chunk.js",
     "static/css/main.28b81880.chunk.css",
-    "static/js/main.5c26db36.chunk.js"
+    "static/js/main.3f3569b7.chunk.js"
   ]
 }
